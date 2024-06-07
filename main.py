@@ -3,6 +3,8 @@ import pygame
 import math
 import random
 
+print('what is up bro')
+
 print('bye')
 
 
