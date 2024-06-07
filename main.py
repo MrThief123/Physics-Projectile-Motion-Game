@@ -3,16 +3,8 @@ import pygame
 import math
 import random
 
-print('what is up bro')
-
-print('bye')
-
-
-
 plat_height = random.randint(30, 130)  # height of paltform
 plat_height = plat_height * 5 + 5
-
-
 
 loop = []
 loop_x = []
