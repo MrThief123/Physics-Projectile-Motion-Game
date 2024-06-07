@@ -8,6 +8,7 @@ print('what is up bro')
 print('bye')
 
 
+
 plat_height = random.randint(30, 130)  # height of paltform
 plat_height = plat_height * 5 + 5
 
@@ -71,7 +72,7 @@ wind_y = (((math.cos(wind_trig)) * wind_strength) / bullet_weight / fps)
 y_accel = -9.8 / fps + wind_y
 
 
-cloud = pygame.image.load("c:\Pictures\cloud.png")
+cloud = pygame.image.load("MrThief123/Physics-Projectile-Motion-Game/cloud.png")
 cloud = pygame.transform.scale(cloud, (200, 120))
 cloudx = 750
 cloudy = 200
