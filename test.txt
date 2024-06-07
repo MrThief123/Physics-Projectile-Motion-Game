@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 no will will ever read this lol 
+=======
+no will will ever read thishhh 
+>>>>>>> 9fceac980ccb9659cf9410d926f248c6fe29a3b7
