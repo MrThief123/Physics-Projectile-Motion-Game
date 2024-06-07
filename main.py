@@ -64,7 +64,7 @@ wind_y = (((math.cos(wind_trig)) * wind_strength) / bullet_weight / fps)
 y_accel = -9.8 / fps + wind_y
 
 
-cloud = pygame.image.load("cloud.png")
+cloud = pygame.image.load("images\cloud.png")
 cloud = pygame.transform.scale(cloud, (200, 120))
 cloudx = 750
 cloudy = 200
