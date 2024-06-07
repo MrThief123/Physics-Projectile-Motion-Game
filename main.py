@@ -3,6 +3,7 @@ import pygame
 import math
 import random
 
+print('hello')
 
 
 plat_height = random.randint(30, 130)  # height of paltform
